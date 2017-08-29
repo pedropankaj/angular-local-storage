@@ -6,3 +6,6 @@ npm-debug.log
 *.swp
 .idea
 coverage
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
